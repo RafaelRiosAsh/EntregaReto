@@ -1,0 +1,4 @@
+applications:
+- name: EntregableFinal
+  random-route: true
+  memory: 128M
